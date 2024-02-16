@@ -10,13 +10,11 @@ This repository houses a simple 32-bit kernel operating system developed with th
 
 - **Character Printing:** Demonstrates the basic functionality of printing characters with preferred colors.
 
-- **QEMU Compatibility:** The recommended virtual machine for running and installing the OS is QEMU.
-
 ## How to Use
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Kernel_OS.git
+   git clone https://github.com/BertDrei/Kernel_OS.git
 
 ## How to Use
 
