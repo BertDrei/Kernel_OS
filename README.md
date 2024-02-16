@@ -16,8 +16,6 @@ This repository houses a simple 32-bit kernel operating system developed with th
    ```bash
    git clone https://github.com/BertDrei/Kernel_OS.git
 
-## How to Use
-
 ### Run with QEMU:
 
 Use QEMU to run the ISO file included in the repository.
